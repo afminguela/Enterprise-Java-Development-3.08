@@ -21,5 +21,6 @@ public class Association {
     private List<Chapters> chaptersList;
 
 
-
+    public void setId(Integer id) {
+    }
 }
